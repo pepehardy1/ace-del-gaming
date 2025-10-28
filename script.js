@@ -288,6 +288,26 @@ class GamingChatbot {
                 'De nada, fue un placer ayudarte. Que tengas excelentes aventuras gaming y disfrutes al máximo tu experiencia.', 
                 'Ha sido un honor asistirte. Espero que encuentres exactamente lo que buscas para tu gaming.', 
                 'Me alegra haber sido útil. Que tus sesiones gaming sean épicas y divertidas.'
+            ],
+            'pagina': [
+                'Para servicios de desarrollo de páginas web, te invito a contactarnos por Instagram para una consulta personalizada. Allí podrás ver nuestro portafolio y ejemplos de trabajos anteriores.', 
+                'Si necesitas una página web profesional, síguenos en Instagram donde mostramos nuestros proyectos y puedes contactarnos directamente para cotizaciones.'
+            ],
+            'web': [
+                'Para desarrollo web y páginas profesionales, visítanos en Instagram donde tenemos nuestro portafolio completo. Ahí puedes ver ejemplos reales y contactarnos para tu proyecto.', 
+                'Nuestros servicios de desarrollo web están disponibles desde $110 USD. Te recomiendo seguirnos en Instagram para ver ejemplos de nuestro trabajo y contactarnos directamente.'
+            ],
+            'desarrollo': [
+                'Ofrecemos servicios de desarrollo web profesional. Para ver nuestro portafolio y ejemplos reales, búscanos en Instagram donde mostramos todos nuestros proyectos web.', 
+                'Para desarrollo de sitios web, Instagram es el mejor lugar para ver nuestro trabajo. Ahí encontrarás ejemplos y podrás contactarnos para tu proyecto personalizado.'
+            ],
+            'sitio': [
+                'Si necesitas un sitio web, te invitamos a seguirnos en Instagram donde publicamos nuestro portafolio de desarrollo web. Ahí puedes ver la calidad de nuestro trabajo y contactarnos.', 
+                'Para sitios web profesionales, visita nuestro Instagram donde mostramos ejemplos reales de páginas que hemos desarrollado. ¡Te sorprenderá la calidad!'
+            ],
+            'instagram': [
+                'Perfecto! En nuestro Instagram encontrarás todo nuestro portafolio de desarrollo web, ejemplos de páginas profesionales y podrás contactarnos directamente para cotizaciones.', 
+                '¡Excelente elección! Instagram es donde mostramos nuestros mejores trabajos de desarrollo web. Síguenos para ver ejemplos increíbles y contactarnos fácilmente.'
             ]
         };
         this.init();

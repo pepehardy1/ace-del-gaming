@@ -362,6 +362,59 @@ body::before {
     margin-bottom: 1rem;
 }
 
+/* Desarrollo Web Section */
+.featured-service {
+    max-width: 600px;
+    margin: 0 auto;
+    background: linear-gradient(135deg, rgba(0, 255, 136, 0.1), rgba(255, 0, 128, 0.1));
+    border: 2px solid var(--primary-color);
+}
+
+.featured-service::before {
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+}
+
+.featured-service:hover {
+    border-color: var(--secondary-color);
+    box-shadow: 0 20px 60px rgba(0, 255, 136, 0.3);
+}
+
+.features-list {
+    margin: 1.5rem 0;
+    text-align: left;
+}
+
+.features-list ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.features-list li {
+    padding: 0.5rem 0;
+    color: var(--text-gray);
+    font-size: 0.9rem;
+    border-bottom: 1px solid rgba(0, 255, 136, 0.1);
+}
+
+.features-list li:last-child {
+    border-bottom: none;
+}
+
+.btn-contact {
+    background: linear-gradient(135deg, #00ff88, #0066ff);
+    color: #000;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.btn-contact:hover {
+    background: linear-gradient(135deg, #0066ff, #ff0080);
+    transform: translateY(-3px) scale(1.05);
+    color: #fff;
+}
+
 /* About Section */
 .about-content {
     display: grid;
